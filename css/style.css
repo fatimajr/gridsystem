@@ -1,0 +1,79 @@
+.fondo-1{
+	background-color: #333333;
+}
+.cabecera{
+	position: relative;
+	left: 560px;
+	bottom: 90px;
+}
+.link {
+	color:blue;
+}
+nav ul li{
+	display: inline-block;
+	color: white;
+	margin-left: 12px;
+}
+.fondo-2{
+	background-color: #EEEEEE;
+	padding-bottom: 20px;
+}
+h3{
+	padding: 10px;
+}
+.caja{
+	padding:0px;
+}
+.linea{
+	width: 140px;
+	border: 1px solid gray;
+	margin-top: 4px;
+    margin-bottom: 6px;
+}
+.seccion-1{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+p{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: gray;
+}
+footer{
+    background: #585858 ;
+}
+.piedepagina{
+    color: white;
+    margin-left: 215px;
+    padding-top: 26px;
+}
+a{
+    text-decoration: none;
+    color: #447BB6 ;
+}
+.pie ul{
+    list-style: none;
+    display:inline-block;
+    margin-left: 277px;
+}
+.list{
+   font-size: 15px;
+   margin-left: 24px;
+   padding-top: 19px;
+   color:#ABC4CC;
+}
+.pie ul li{
+    float: left;
+}
+.copyright{
+   margin-left: 436px;
+   font-size: 11px;
+   padding-bottom: 25px;
+   color: #BAC2B6 ;
+   padding-top: 19px;
+   padding-bottom: 24px;
+}
+.piedepagina a{
+    text-decoration: none;
+    color: #ABC4CC ;
+}
